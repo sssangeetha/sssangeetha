@@ -32,16 +32,10 @@
 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sssangeetha&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 - 🧩 **[Outamation AI Pipeline](https://github.com/sssangeetha/outamation-ai-pipeline)** – Modular RAG-based document retrieval system  
-- 🍔 **[Food Dash App](https://github.com/sssangeetha/Food-Dash-App)** – Full-stack food delivery app (React + Node.js)  
+- 🍔 **[Food Dash App](https://github.com/sssangeetha/Food-Dash-App)** – FoodDash Food delivery app (React + Node.js)  
 
 ---
 
