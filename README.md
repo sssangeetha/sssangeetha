@@ -11,7 +11,7 @@
 - 🔭 Currently building **AI-powered automation pipelines & RAG-based assistants**  
 - 🌱 Learning **Golang, LLM orchestration, and cloud-native AI systems**  
 - 👩‍💻 Passionate about **building scalable backend systems** using **Python | Java | React | Spring Boot | Kubernetes | Docker**  
-- 🧠 Interested in **System Design, Web Development, Coding using Data Strctures and Algorithms, GenAI, and intelligent DevOps**  
+- 🧠 Interested in **System Design, Web Development, Coding using Data Structures and Algorithms, GenAI, and intelligent DevOps**  
 - 📫 Reach me at **saisangeetha99@gmail.com**
 
 ---
