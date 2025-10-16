@@ -17,11 +17,36 @@
 ---
 
 ### 🛠️ Tech Stack
+
+#### 🌈 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,spring,docker,kubernetes,aws,azure,git,linux,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap,figma,canva" />
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,php,laravel,django" />
+</p>
+
+#### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/ERPNext-2B65EC?logo=erpnext&logoColor=white" height="40" />
+</p>
+
+#### ⚒️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jira,trello,docker,kubernetes" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="40" />
+</p>
+
+#### ☁️ Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify" />
 </p>
 
 ---
+
 
 ### 📊 GitHub Stats
 <p align="center">
