@@ -18,34 +18,19 @@
 
 ### 🛠️ Tech Stack
 
-#### 🌈 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap,figma,canva" />
-</p>
+### 🛠️ Tech Stack
 
-#### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,php,laravel,django" />
-</p>
+| 🌈 Frontend | ⚙️ Backend | 🗃️ Databases |
+|:------------:|:-----------:|:-------------:|
+| <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="40"/> | <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=php" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=laravel" height="40"/> | <img src="https://img.shields.io/badge/ERPNext-2B65EC?logo=erpnext&logoColor=white" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=django" height="40"/> |   |
+| <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> |   |   |
+| <img src="https://skillicons.dev/icons?i=figma" height="40"/> |   |   |
+| <img src="https://skillicons.dev/icons?i=canva" height="40"/> |   |   |
 
-#### 🗃️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-  <img src="https://img.shields.io/badge/ERPNext-2B65EC?logo=erpnext&logoColor=white" height="40" />
-</p>
-
-#### ⚒️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,jira,trello,docker,kubernetes" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="40" />
-</p>
-
-#### ☁️ Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify" />
-</p>
-
----
 
 
 ### 📊 GitHub Stats
