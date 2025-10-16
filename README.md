@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sangeetha</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Cloud & Data Engineer</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Designing Scalable Systems | Cloud Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sssangeetha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
