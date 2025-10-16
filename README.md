@@ -16,20 +16,19 @@
 
 ---
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
-| 🌈 Frontend | ⚙️ Backend | 🗃️ Databases |
-|:------------:|:-----------:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="40"/> | <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> |
-| <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> |
-| <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=php" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> |
-| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=laravel" height="40"/> | <img src="https://img.shields.io/badge/ERPNext-2B65EC?logo=erpnext&logoColor=white" height="40"/> |
-| <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=django" height="40"/> |   |
-| <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> |   |   |
-| <img src="https://skillicons.dev/icons?i=figma" height="40"/> |   |   |
-| <img src="https://skillicons.dev/icons?i=canva" height="40"/> |   |   |
+| 🌈 Frontend | ⚙️ Backend | 🗃️ Databases | ⚒️ Tools | ☁️ Platforms |
+|:------------:|:-----------:|:-------------:|:----------:|:--------------:|
+| <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> | <img src="https://skillicons.dev/icons?i=python" height="40"/> | <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> | <img src="https://skillicons.dev/icons?i=git" height="40"/> | <img src="https://skillicons.dev/icons?i=aws" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> | <img src="https://skillicons.dev/icons?i=github" height="40"/> | <img src="https://skillicons.dev/icons?i=firebase" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=php" height="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> | <img src="https://skillicons.dev/icons?i=postman" height="40"/> | <img src="https://skillicons.dev/icons?i=vercel" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=laravel" height="40"/> | <img src="https://img.shields.io/badge/ERPNext-2B65EC?logo=erpnext&logoColor=white" height="40"/> | <img src="https://skillicons.dev/icons?i=jira" height="40"/> | <img src="https://skillicons.dev/icons?i=netlify" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=django" height="40"/> |   | <img src="https://skillicons.dev/icons?i=trello" height="40"/> | <img src="https://skillicons.dev/icons?i=docker" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> |   |   | <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> | <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=figma" height="40"/> |   |   |   |   |
+| <img src="https://skillicons.dev/icons?i=canva" height="40"/> |   |   |   |   |
 
 
 
