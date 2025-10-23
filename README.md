@@ -34,7 +34,7 @@
 
 
 ### 🚀 Featured Projects
-- 🧩 **[Outamation AI Pipeline](https://github.com/sssangeetha/outamation-ai-pipeline)** – Modular RAG-based document retrieval system  
+- 🧩 **[Outamation AI Pipeline](https://github.com/sssangeetha/OutamationAI_OCR_RAG_Automation)** – Modular RAG-based document retrieval system  
 - 🍔 **[Food Dash App](https://github.com/sssangeetha/Food-Dash-App)** – FoodDash Food delivery app (React + Node.js)  
 
 ---
