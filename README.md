@@ -41,7 +41,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/srisaisangeetha/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/sangeetha-jannapu/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://medium.com/@saisangeetha99"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
   <a href="mailto:saisangeetha99@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
